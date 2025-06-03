@@ -1,5 +1,5 @@
 <h1 align="center">Ola, sou Bruno Henrique Oliveira Araujo</h1>
-<h3 align="center">Aqui Você encontra um estudante TI, buscando novos conhecimentos e experiências</h3>
+<h3 align="center">Aqui Você encontra um estudante de TI, buscando novos conhecimentos e experiências</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohenrique2712&label=Profile%20views&color=0e75b6&style=flat" alt="brunohenrique2712" /> </p>
 
